@@ -1,0 +1,13 @@
+C:\Users\wcogeo\Documents\__Estudos-CSharp\Secao_3\Secao_06\obj\Debug\netcoreapp3.1\Secao_06.AssemblyInfoInputs.cache
+C:\Users\wcogeo\Documents\__Estudos-CSharp\Secao_3\Secao_06\obj\Debug\netcoreapp3.1\Secao_06.AssemblyInfo.cs
+C:\Users\wcogeo\Documents\__Estudos-CSharp\Secao_3\Secao_06\obj\Debug\netcoreapp3.1\Secao_06.csproj.CoreCompileInputs.cache
+C:\Users\wcogeo\Documents\__Estudos-CSharp\Secao_3\Secao_06\bin\Debug\netcoreapp3.1\Secao_06.exe
+C:\Users\wcogeo\Documents\__Estudos-CSharp\Secao_3\Secao_06\bin\Debug\netcoreapp3.1\Secao_06.deps.json
+C:\Users\wcogeo\Documents\__Estudos-CSharp\Secao_3\Secao_06\bin\Debug\netcoreapp3.1\Secao_06.runtimeconfig.json
+C:\Users\wcogeo\Documents\__Estudos-CSharp\Secao_3\Secao_06\bin\Debug\netcoreapp3.1\Secao_06.runtimeconfig.dev.json
+C:\Users\wcogeo\Documents\__Estudos-CSharp\Secao_3\Secao_06\bin\Debug\netcoreapp3.1\Secao_06.dll
+C:\Users\wcogeo\Documents\__Estudos-CSharp\Secao_3\Secao_06\bin\Debug\netcoreapp3.1\Secao_06.pdb
+C:\Users\wcogeo\Documents\__Estudos-CSharp\Secao_3\Secao_06\obj\Debug\netcoreapp3.1\Secao_06.dll
+C:\Users\wcogeo\Documents\__Estudos-CSharp\Secao_3\Secao_06\obj\Debug\netcoreapp3.1\Secao_06.pdb
+C:\Users\wcogeo\Documents\__Estudos-CSharp\Secao_3\Secao_06\obj\Debug\netcoreapp3.1\Secao_06.genruntimeconfig.cache
+C:\Users\wcogeo\Documents\__Estudos-CSharp\Secao_3\Secao_06\obj\Debug\netcoreapp3.1\Secao_06.csprojAssemblyReference.cache

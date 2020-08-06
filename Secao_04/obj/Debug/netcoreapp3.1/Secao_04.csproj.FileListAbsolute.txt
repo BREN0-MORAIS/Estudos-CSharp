@@ -1,0 +1,13 @@
+C:\Users\wcogeo\Documents\__Estudos-CSharp\Secao_3\Secao_04\bin\Debug\netcoreapp3.1\Secao_04.exe
+C:\Users\wcogeo\Documents\__Estudos-CSharp\Secao_3\Secao_04\bin\Debug\netcoreapp3.1\Secao_04.deps.json
+C:\Users\wcogeo\Documents\__Estudos-CSharp\Secao_3\Secao_04\bin\Debug\netcoreapp3.1\Secao_04.runtimeconfig.json
+C:\Users\wcogeo\Documents\__Estudos-CSharp\Secao_3\Secao_04\bin\Debug\netcoreapp3.1\Secao_04.runtimeconfig.dev.json
+C:\Users\wcogeo\Documents\__Estudos-CSharp\Secao_3\Secao_04\bin\Debug\netcoreapp3.1\Secao_04.dll
+C:\Users\wcogeo\Documents\__Estudos-CSharp\Secao_3\Secao_04\bin\Debug\netcoreapp3.1\Secao_04.pdb
+C:\Users\wcogeo\Documents\__Estudos-CSharp\Secao_3\Secao_04\obj\Debug\netcoreapp3.1\Secao_04.csprojAssemblyReference.cache
+C:\Users\wcogeo\Documents\__Estudos-CSharp\Secao_3\Secao_04\obj\Debug\netcoreapp3.1\Secao_04.AssemblyInfoInputs.cache
+C:\Users\wcogeo\Documents\__Estudos-CSharp\Secao_3\Secao_04\obj\Debug\netcoreapp3.1\Secao_04.AssemblyInfo.cs
+C:\Users\wcogeo\Documents\__Estudos-CSharp\Secao_3\Secao_04\obj\Debug\netcoreapp3.1\Secao_04.csproj.CoreCompileInputs.cache
+C:\Users\wcogeo\Documents\__Estudos-CSharp\Secao_3\Secao_04\obj\Debug\netcoreapp3.1\Secao_04.dll
+C:\Users\wcogeo\Documents\__Estudos-CSharp\Secao_3\Secao_04\obj\Debug\netcoreapp3.1\Secao_04.pdb
+C:\Users\wcogeo\Documents\__Estudos-CSharp\Secao_3\Secao_04\obj\Debug\netcoreapp3.1\Secao_04.genruntimeconfig.cache

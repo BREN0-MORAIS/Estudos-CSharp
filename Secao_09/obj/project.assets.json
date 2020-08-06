@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\_Git-Breno_ESTUDOS\\REPO\\Secao_3\\Secao_3\\Secao_03.csproj",
-      "projectName": "Secao_03",
-      "projectPath": "C:\\_Git-Breno_ESTUDOS\\REPO\\Secao_3\\Secao_3\\Secao_03.csproj",
+      "projectUniqueName": "C:\\_Git-Breno_ESTUDOS\\REPO\\Secao_3\\Secao_09\\Secao_09.csproj",
+      "projectName": "Secao_09",
+      "projectPath": "C:\\_Git-Breno_ESTUDOS\\REPO\\Secao_3\\Secao_09\\Secao_09.csproj",
       "packagesPath": "C:\\Users\\wcogeo\\.nuget\\packages\\",
-      "outputPath": "C:\\_Git-Breno_ESTUDOS\\REPO\\Secao_3\\Secao_3\\obj\\",
+      "outputPath": "C:\\_Git-Breno_ESTUDOS\\REPO\\Secao_3\\Secao_09\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\wcogeo\\AppData\\Roaming\\NuGet\\NuGet.Config",

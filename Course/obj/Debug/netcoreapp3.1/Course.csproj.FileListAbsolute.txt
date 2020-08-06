@@ -1,0 +1,13 @@
+C:\Users\wcogeo\Documents\__Estudos-CSharp\Secao_3\Course\obj\Debug\netcoreapp3.1\Course.csprojAssemblyReference.cache
+C:\Users\wcogeo\Documents\__Estudos-CSharp\Secao_3\Course\obj\Debug\netcoreapp3.1\Course.AssemblyInfoInputs.cache
+C:\Users\wcogeo\Documents\__Estudos-CSharp\Secao_3\Course\obj\Debug\netcoreapp3.1\Course.AssemblyInfo.cs
+C:\Users\wcogeo\Documents\__Estudos-CSharp\Secao_3\Course\obj\Debug\netcoreapp3.1\Course.csproj.CoreCompileInputs.cache
+C:\Users\wcogeo\Documents\__Estudos-CSharp\Secao_3\Course\bin\Debug\netcoreapp3.1\Course.exe
+C:\Users\wcogeo\Documents\__Estudos-CSharp\Secao_3\Course\bin\Debug\netcoreapp3.1\Course.deps.json
+C:\Users\wcogeo\Documents\__Estudos-CSharp\Secao_3\Course\bin\Debug\netcoreapp3.1\Course.runtimeconfig.json
+C:\Users\wcogeo\Documents\__Estudos-CSharp\Secao_3\Course\bin\Debug\netcoreapp3.1\Course.runtimeconfig.dev.json
+C:\Users\wcogeo\Documents\__Estudos-CSharp\Secao_3\Course\bin\Debug\netcoreapp3.1\Course.dll
+C:\Users\wcogeo\Documents\__Estudos-CSharp\Secao_3\Course\bin\Debug\netcoreapp3.1\Course.pdb
+C:\Users\wcogeo\Documents\__Estudos-CSharp\Secao_3\Course\obj\Debug\netcoreapp3.1\Course.dll
+C:\Users\wcogeo\Documents\__Estudos-CSharp\Secao_3\Course\obj\Debug\netcoreapp3.1\Course.pdb
+C:\Users\wcogeo\Documents\__Estudos-CSharp\Secao_3\Course\obj\Debug\netcoreapp3.1\Course.genruntimeconfig.cache
