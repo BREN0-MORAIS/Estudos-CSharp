@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\_Git-Breno_ESTUDOS\\REPO\\Secao_3\\Course\\Secao_05.csproj": {}
+    "C:\\_Git-Breno_ESTUDOS\\[Estudos CSharp]\\Estudos-CSharp\\Course\\Secao_05.csproj": {}
   },
   "projects": {
-    "C:\\_Git-Breno_ESTUDOS\\REPO\\Secao_3\\Course\\Secao_05.csproj": {
+    "C:\\_Git-Breno_ESTUDOS\\[Estudos CSharp]\\Estudos-CSharp\\Course\\Secao_05.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\_Git-Breno_ESTUDOS\\REPO\\Secao_3\\Course\\Secao_05.csproj",
+        "projectUniqueName": "C:\\_Git-Breno_ESTUDOS\\[Estudos CSharp]\\Estudos-CSharp\\Course\\Secao_05.csproj",
         "projectName": "Secao_05",
-        "projectPath": "C:\\_Git-Breno_ESTUDOS\\REPO\\Secao_3\\Course\\Secao_05.csproj",
+        "projectPath": "C:\\_Git-Breno_ESTUDOS\\[Estudos CSharp]\\Estudos-CSharp\\Course\\Secao_05.csproj",
         "packagesPath": "C:\\Users\\wcogeo\\.nuget\\packages\\",
-        "outputPath": "C:\\_Git-Breno_ESTUDOS\\REPO\\Secao_3\\Course\\obj\\",
+        "outputPath": "C:\\_Git-Breno_ESTUDOS\\[Estudos CSharp]\\Estudos-CSharp\\Course\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wcogeo\\AppData\\Roaming\\NuGet\\NuGet.Config",
