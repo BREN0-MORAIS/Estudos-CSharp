@@ -11,8 +11,8 @@ namespace Secao_10
             BusnessAcount acount = new BusnessAcount(8010,11,100.0,500);
 
 
-            Console.WriteLine(acount);
-
+            Console.WriteLine(acount.Balance);
+         //   acount.Balance += 20.0;
             Console.Read();
         }
     }
