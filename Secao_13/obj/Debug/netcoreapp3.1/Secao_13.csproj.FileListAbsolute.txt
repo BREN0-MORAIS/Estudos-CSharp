@@ -11,3 +11,16 @@ C:\_Git-Breno_ESTUDOS\[Estudos CSharp]\Estudos-CSharp\Secao_13\obj\Debug\netcore
 C:\_Git-Breno_ESTUDOS\[Estudos CSharp]\Estudos-CSharp\Secao_13\obj\Debug\netcoreapp3.1\Secao_13.dll
 C:\_Git-Breno_ESTUDOS\[Estudos CSharp]\Estudos-CSharp\Secao_13\obj\Debug\netcoreapp3.1\Secao_13.pdb
 C:\_Git-Breno_ESTUDOS\[Estudos CSharp]\Estudos-CSharp\Secao_13\obj\Debug\netcoreapp3.1\Secao_13.genruntimeconfig.cache
+H:\Desenvolvimento\_Codigo-Fonte\Estudos_CSharp\Secao_13\bin\Debug\netcoreapp3.1\Secao_13.exe
+H:\Desenvolvimento\_Codigo-Fonte\Estudos_CSharp\Secao_13\bin\Debug\netcoreapp3.1\Secao_13.deps.json
+H:\Desenvolvimento\_Codigo-Fonte\Estudos_CSharp\Secao_13\bin\Debug\netcoreapp3.1\Secao_13.runtimeconfig.json
+H:\Desenvolvimento\_Codigo-Fonte\Estudos_CSharp\Secao_13\bin\Debug\netcoreapp3.1\Secao_13.runtimeconfig.dev.json
+H:\Desenvolvimento\_Codigo-Fonte\Estudos_CSharp\Secao_13\bin\Debug\netcoreapp3.1\Secao_13.dll
+H:\Desenvolvimento\_Codigo-Fonte\Estudos_CSharp\Secao_13\bin\Debug\netcoreapp3.1\Secao_13.pdb
+H:\Desenvolvimento\_Codigo-Fonte\Estudos_CSharp\Secao_13\obj\Debug\netcoreapp3.1\Secao_13.csprojAssemblyReference.cache
+H:\Desenvolvimento\_Codigo-Fonte\Estudos_CSharp\Secao_13\obj\Debug\netcoreapp3.1\Secao_13.AssemblyInfoInputs.cache
+H:\Desenvolvimento\_Codigo-Fonte\Estudos_CSharp\Secao_13\obj\Debug\netcoreapp3.1\Secao_13.AssemblyInfo.cs
+H:\Desenvolvimento\_Codigo-Fonte\Estudos_CSharp\Secao_13\obj\Debug\netcoreapp3.1\Secao_13.csproj.CoreCompileInputs.cache
+H:\Desenvolvimento\_Codigo-Fonte\Estudos_CSharp\Secao_13\obj\Debug\netcoreapp3.1\Secao_13.dll
+H:\Desenvolvimento\_Codigo-Fonte\Estudos_CSharp\Secao_13\obj\Debug\netcoreapp3.1\Secao_13.pdb
+H:\Desenvolvimento\_Codigo-Fonte\Estudos_CSharp\Secao_13\obj\Debug\netcoreapp3.1\Secao_13.genruntimeconfig.cache

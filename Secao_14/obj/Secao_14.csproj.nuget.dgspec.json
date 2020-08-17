@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\Desenvolvimento\\_Codigo-Fonte\\Estudos_CSharp\\Secao_11\\Secao_11.csproj": {}
+    "H:\\Desenvolvimento\\_Codigo-Fonte\\Estudos_CSharp\\Secao_14\\Secao_14.csproj": {}
   },
   "projects": {
-    "H:\\Desenvolvimento\\_Codigo-Fonte\\Estudos_CSharp\\Secao_11\\Secao_11.csproj": {
+    "H:\\Desenvolvimento\\_Codigo-Fonte\\Estudos_CSharp\\Secao_14\\Secao_14.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\Desenvolvimento\\_Codigo-Fonte\\Estudos_CSharp\\Secao_11\\Secao_11.csproj",
-        "projectName": "Secao_11",
-        "projectPath": "H:\\Desenvolvimento\\_Codigo-Fonte\\Estudos_CSharp\\Secao_11\\Secao_11.csproj",
+        "projectUniqueName": "H:\\Desenvolvimento\\_Codigo-Fonte\\Estudos_CSharp\\Secao_14\\Secao_14.csproj",
+        "projectName": "Secao_14",
+        "projectPath": "H:\\Desenvolvimento\\_Codigo-Fonte\\Estudos_CSharp\\Secao_14\\Secao_14.csproj",
         "packagesPath": "C:\\Users\\BRENO MORAIS\\.nuget\\packages\\",
-        "outputPath": "H:\\Desenvolvimento\\_Codigo-Fonte\\Estudos_CSharp\\Secao_11\\obj\\",
+        "outputPath": "H:\\Desenvolvimento\\_Codigo-Fonte\\Estudos_CSharp\\Secao_14\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\BRENO MORAIS\\AppData\\Roaming\\NuGet\\NuGet.Config",

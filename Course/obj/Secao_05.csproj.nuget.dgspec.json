@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\_Git-Breno_ESTUDOS\\[Estudos CSharp]\\Estudos-CSharp\\Course\\Secao_05.csproj": {}
+    "H:\\Desenvolvimento\\_Codigo-Fonte\\Estudos_CSharp\\Course\\Secao_05.csproj": {}
   },
   "projects": {
-    "C:\\_Git-Breno_ESTUDOS\\[Estudos CSharp]\\Estudos-CSharp\\Course\\Secao_05.csproj": {
+    "H:\\Desenvolvimento\\_Codigo-Fonte\\Estudos_CSharp\\Course\\Secao_05.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\_Git-Breno_ESTUDOS\\[Estudos CSharp]\\Estudos-CSharp\\Course\\Secao_05.csproj",
+        "projectUniqueName": "H:\\Desenvolvimento\\_Codigo-Fonte\\Estudos_CSharp\\Course\\Secao_05.csproj",
         "projectName": "Secao_05",
-        "projectPath": "C:\\_Git-Breno_ESTUDOS\\[Estudos CSharp]\\Estudos-CSharp\\Course\\Secao_05.csproj",
-        "packagesPath": "C:\\Users\\wcogeo\\.nuget\\packages\\",
-        "outputPath": "C:\\_Git-Breno_ESTUDOS\\[Estudos CSharp]\\Estudos-CSharp\\Course\\obj\\",
+        "projectPath": "H:\\Desenvolvimento\\_Codigo-Fonte\\Estudos_CSharp\\Course\\Secao_05.csproj",
+        "packagesPath": "C:\\Users\\BRENO MORAIS\\.nuget\\packages\\",
+        "outputPath": "H:\\Desenvolvimento\\_Codigo-Fonte\\Estudos_CSharp\\Course\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\wcogeo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\BRENO MORAIS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

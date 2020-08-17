@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\Desenvolvimento\\_Codigo-Fonte\\Estudos_CSharp\\Secao_3\\Secao_03.csproj",
-      "projectName": "Secao_03",
-      "projectPath": "H:\\Desenvolvimento\\_Codigo-Fonte\\Estudos_CSharp\\Secao_3\\Secao_03.csproj",
+      "projectUniqueName": "H:\\Desenvolvimento\\_Codigo-Fonte\\Estudos_CSharp\\Secao_14\\Secao_14.csproj",
+      "projectName": "Secao_14",
+      "projectPath": "H:\\Desenvolvimento\\_Codigo-Fonte\\Estudos_CSharp\\Secao_14\\Secao_14.csproj",
       "packagesPath": "C:\\Users\\BRENO MORAIS\\.nuget\\packages\\",
-      "outputPath": "H:\\Desenvolvimento\\_Codigo-Fonte\\Estudos_CSharp\\Secao_3\\obj\\",
+      "outputPath": "H:\\Desenvolvimento\\_Codigo-Fonte\\Estudos_CSharp\\Secao_14\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\BRENO MORAIS\\AppData\\Roaming\\NuGet\\NuGet.Config",
