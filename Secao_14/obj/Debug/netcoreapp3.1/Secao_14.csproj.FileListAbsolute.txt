@@ -1,0 +1,12 @@
+H:\Desenvolvimento\_Codigo-Fonte\Estudos_CSharp\Secao_14\bin\Debug\netcoreapp3.1\Secao_14.exe
+H:\Desenvolvimento\_Codigo-Fonte\Estudos_CSharp\Secao_14\bin\Debug\netcoreapp3.1\Secao_14.deps.json
+H:\Desenvolvimento\_Codigo-Fonte\Estudos_CSharp\Secao_14\bin\Debug\netcoreapp3.1\Secao_14.runtimeconfig.json
+H:\Desenvolvimento\_Codigo-Fonte\Estudos_CSharp\Secao_14\bin\Debug\netcoreapp3.1\Secao_14.runtimeconfig.dev.json
+H:\Desenvolvimento\_Codigo-Fonte\Estudos_CSharp\Secao_14\bin\Debug\netcoreapp3.1\Secao_14.dll
+H:\Desenvolvimento\_Codigo-Fonte\Estudos_CSharp\Secao_14\bin\Debug\netcoreapp3.1\Secao_14.pdb
+H:\Desenvolvimento\_Codigo-Fonte\Estudos_CSharp\Secao_14\obj\Debug\netcoreapp3.1\Secao_14.AssemblyInfoInputs.cache
+H:\Desenvolvimento\_Codigo-Fonte\Estudos_CSharp\Secao_14\obj\Debug\netcoreapp3.1\Secao_14.AssemblyInfo.cs
+H:\Desenvolvimento\_Codigo-Fonte\Estudos_CSharp\Secao_14\obj\Debug\netcoreapp3.1\Secao_14.csproj.CoreCompileInputs.cache
+H:\Desenvolvimento\_Codigo-Fonte\Estudos_CSharp\Secao_14\obj\Debug\netcoreapp3.1\Secao_14.dll
+H:\Desenvolvimento\_Codigo-Fonte\Estudos_CSharp\Secao_14\obj\Debug\netcoreapp3.1\Secao_14.pdb
+H:\Desenvolvimento\_Codigo-Fonte\Estudos_CSharp\Secao_14\obj\Debug\netcoreapp3.1\Secao_14.genruntimeconfig.cache

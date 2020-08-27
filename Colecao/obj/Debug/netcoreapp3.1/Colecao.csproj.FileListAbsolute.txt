@@ -1,0 +1,13 @@
+H:\Desenvolvimento\_Codigo-Fonte\Estudos_CSharp\Colecao\bin\Debug\netcoreapp3.1\Colecao.exe
+H:\Desenvolvimento\_Codigo-Fonte\Estudos_CSharp\Colecao\bin\Debug\netcoreapp3.1\Colecao.deps.json
+H:\Desenvolvimento\_Codigo-Fonte\Estudos_CSharp\Colecao\bin\Debug\netcoreapp3.1\Colecao.runtimeconfig.json
+H:\Desenvolvimento\_Codigo-Fonte\Estudos_CSharp\Colecao\bin\Debug\netcoreapp3.1\Colecao.runtimeconfig.dev.json
+H:\Desenvolvimento\_Codigo-Fonte\Estudos_CSharp\Colecao\bin\Debug\netcoreapp3.1\Colecao.dll
+H:\Desenvolvimento\_Codigo-Fonte\Estudos_CSharp\Colecao\bin\Debug\netcoreapp3.1\Colecao.pdb
+H:\Desenvolvimento\_Codigo-Fonte\Estudos_CSharp\Colecao\obj\Debug\netcoreapp3.1\Colecao.csprojAssemblyReference.cache
+H:\Desenvolvimento\_Codigo-Fonte\Estudos_CSharp\Colecao\obj\Debug\netcoreapp3.1\Colecao.AssemblyInfoInputs.cache
+H:\Desenvolvimento\_Codigo-Fonte\Estudos_CSharp\Colecao\obj\Debug\netcoreapp3.1\Colecao.AssemblyInfo.cs
+H:\Desenvolvimento\_Codigo-Fonte\Estudos_CSharp\Colecao\obj\Debug\netcoreapp3.1\Colecao.csproj.CoreCompileInputs.cache
+H:\Desenvolvimento\_Codigo-Fonte\Estudos_CSharp\Colecao\obj\Debug\netcoreapp3.1\Colecao.dll
+H:\Desenvolvimento\_Codigo-Fonte\Estudos_CSharp\Colecao\obj\Debug\netcoreapp3.1\Colecao.pdb
+H:\Desenvolvimento\_Codigo-Fonte\Estudos_CSharp\Colecao\obj\Debug\netcoreapp3.1\Colecao.genruntimeconfig.cache
